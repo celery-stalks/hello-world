@@ -2,4 +2,4 @@ hello-world
 ===========
 
 A test.
-Github seems like a good environment to program.
+Github seems like a TERRIBLE environment to program.
